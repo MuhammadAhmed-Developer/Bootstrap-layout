@@ -1,0 +1,36 @@
+/* body::before{
+display: block;
+content: '';
+height: 60px;
+} */
+
+/* .image-learn{
+  width: 56vh;
+} */
+
+
+
+
+
+@media only screen and (max-width: 576px) {
+    .web-developer{
+        margin-top: 3vh;
+        }
+        /* .navbar{
+         position: absolute;
+        } */
+    .mapouter{
+      width: 100px;
+      height: 50px;
+      margin-right: 100px;
+      display: none;
+    }
+    .imageb{
+      display: none;
+    }
+  }
+  @media(min-width: 768px){
+    .news-letter{
+      width: 50%;
+    }
+  }
